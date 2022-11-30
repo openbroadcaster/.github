@@ -1,7 +1,7 @@
 ---
-name: Bug report
+name: OB Bug report
 about: Create a report to help us improve
-title: ''
+title: "[OB Bug]"
 labels: ''
 assignees: ''
 
