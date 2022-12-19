@@ -1,5 +1,5 @@
 ---
-name: OB Feature request
+name: OB Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: ''

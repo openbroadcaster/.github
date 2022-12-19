@@ -1,5 +1,5 @@
 ---
-name: OB Bug report
+name: OB Bug Report
 about: Create a report to help us improve
 title: ''
 labels: ''
